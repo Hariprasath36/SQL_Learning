@@ -4,3 +4,5 @@ Limited Functionality: In some databases, subqueries cannot be used in certain c
 Scalability: Subqueries may not scale well with large datasets or complex queries, leading to slower response times.
 Optimization Limitations: Some database engines may struggle to optimize subqueries, especially correlated ones, compared to equivalent joins.
 Readability Issues: As subqueries grow in complexity, they can become harder to understand compared to using joins or common table expressions (CTEs).
+
+
