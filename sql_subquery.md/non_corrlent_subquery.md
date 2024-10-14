@@ -1,0 +1,2 @@
+
+A non-correlated subquery is a subquery that is independent of the outer query. It does not reference any columns from the outer query, meaning it is executed once and its result is passed to the outer query. The subquery can be evaluated on its own without relying on data from the main query.
