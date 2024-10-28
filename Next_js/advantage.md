@@ -21,6 +21,13 @@ Nextjs using File based routing
 
 4) Evolution
 
-it takes care of scaling automatically
+5) it takes care of scaling automatically
 
 Automatic code splitting that means if need to  navigate any page that page code only loaded not the whole program is loaded
+
+6) Image Optimization  
+Automatically optimize images size 
+
+7) Script Optimization
+
+8) SEO
